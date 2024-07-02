@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "802980808854",
+    "project_id": "sbonew-7a724",
+    "storage_bucket": "sbonew-7a724.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:802980808854:android:d54e351a765b71a1d05ab7",
+        "android_client_info": {
+          "package_name": "com.dev.sbo.sbo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCm5KubGZ74DvKp9bVSIbyjvJLvykN2Zo8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
